@@ -26,6 +26,8 @@
 ### Resilience Engineering
 * **[Zurich Bus Line 33 Analysis](https://github.com/StefMila/Resilience)** – Evaluated urban transit resilience and delay propagation using VBZ operational data in R. Modeled cumulative delay curves to map bottlenecks and calculate threshold-based recovery indicators.
 
+* **[IoT System](https://github.com/StefMila/IoT)** – Implemented a distributed IoT network across three Raspberry Pi devices using MQTT protocol. It monitors temperature and humidity, acting as an automated thermostat and humidistat by triggering RGB LED feedback via SQLite-logged threshold checks.
+
 
 ## Personal Projects 🧩
 * **[DeutschApplication](https://github.com/StefMila/deutsch)**  - Developed an interactive web application to practice German articles (*der/die/das*). Built using vanilla HTML/JS, it features dynamic multiple-choice generation from customizable word lists, automatic score tracking, and instant visual feedback.
