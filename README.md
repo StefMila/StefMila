@@ -33,7 +33,6 @@
 ### Personal Projects
 * **[homeFinance](https://github.com/StefMila/HomeFinance)** – Developed a personal finance web application that aggregates and interprets multi-bank transaction data. Built features for automated data import, cash flow tracking, macro-category variance analysis, KPI dashboards (DTI, Monthly Run Rate), and targeted tracking for university expenses and scholarships.
 
-## WIP 
 ## WIP & Future Projects 🚀
 
 * **Afro-Cuban & Caribbean Dance Platform** – Developing a digital knowledge base and management system designed to catalog, structure, and preserve extensive resources on Caribbean and Afro-Cuban dance history, musicology, and rhythmic structures. The goal is to turn years of teaching experience and cultural research into an accessible, interactive platform.
